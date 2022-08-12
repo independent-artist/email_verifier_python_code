@@ -1,4 +1,4 @@
-#EMAIL VERIFIER SYSTEM
+EMAIL VERIFIER SYSTEM
 
 This is a python code written to validate emails to reduce bounce rate in email campaigning or mass mailing!
 
@@ -24,8 +24,6 @@ Email Validation Process has mainly 4 phases or steps:
 2- Domain Existence
 3- MX record or mail server existence.
 4- Mailbox or Email Verification.
-
-In this video, I will explain this process in detail and I will show you some practical examples, and I will discuss why some validators fail to get high accuracy especially local Email Verifiers. 
 
 Why is Email Verification Important?
 Most Websites have their optin forms that visitors need to fill in. During this fill-up process, users may, intentionally and evidently, enter wrong email addresses. By accepting them, your email list will be filled up with inaccurate and undeliverable email addresses.
